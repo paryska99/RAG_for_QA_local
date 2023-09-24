@@ -11,4 +11,4 @@ Required Libraries and models:
 - Sentence Transformers
 - Embedding model for Sentence Transformers (You'll find models here: https://huggingface.co/spaces/mteb/leaderboard)
 - Llama-cpp-python (requires compiling manually in order to take advantage of GPUs instead of CPU-only. Further Instructions: https://github.com/abetlen/llama-cpp-python)
-- Llama.cpp compatible model (You'll find models here: https://huggingface.co/TheBloke Tested on llongorca-13b-16k)
+- Llama.cpp compatible model (You'll find models here: https://huggingface.co/TheBloke. Tested on llongorca-13b-16k)
